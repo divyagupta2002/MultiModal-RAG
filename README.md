@@ -4,7 +4,7 @@ Engineering Full-time roles
 
 libraries required, 
 ```
-pyautogen
+ag2
 pinecone-client
 fastapi
 ```
